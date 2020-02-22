@@ -114,8 +114,8 @@
         "signature": "1377923021927244ea19433873b997ad8585533b0a56d5de29cda497f7842756"
       },
       "../worker/metadata.d.ts": {
-        "version": "3262116a3b1f074ca5d301117b99db35bc3a6698a0267342428504d237d3af51",
-        "signature": "3262116a3b1f074ca5d301117b99db35bc3a6698a0267342428504d237d3af51"
+        "version": "e9e1900efa39460b6bb395b99d1a8c06189f34001d3e81c1687678e9602fe364",
+        "signature": "e9e1900efa39460b6bb395b99d1a8c06189f34001d3e81c1687678e9602fe364"
       },
       "../worker/ncmc-worker.ts": {
         "version": "842557a94e04d5efda342b7e0ca315aca13aded7aecb73ce9316f46f5c7223b8",
