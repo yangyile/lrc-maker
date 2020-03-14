@@ -242,8 +242,8 @@
         "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
       },
       "../src/metadata.d.ts": {
-        "version": "e9e1900efa39460b6bb395b99d1a8c06189f34001d3e81c1687678e9602fe364",
-        "signature": "e9e1900efa39460b6bb395b99d1a8c06189f34001d3e81c1687678e9602fe364"
+        "version": "3caa41cc025aed5e99bad98b525f33a7cd51cc5b1a871c7c00b719311b173b83",
+        "signature": "3caa41cc025aed5e99bad98b525f33a7cd51cc5b1a871c7c00b719311b173b83"
       },
       "../types/post-message.d.ts": {
         "version": "eb2e48cbd4dad13a12e1c259e78c3a1d4c2dafae35f4849197fd9c4a9ff6e31d",
