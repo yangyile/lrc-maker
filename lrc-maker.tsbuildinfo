@@ -302,8 +302,8 @@
         "affectsGlobalScope": false
       },
       "../src/metadata.d.ts": {
-        "version": "c24acac9e532193458129f91f7117600fe1ebc40ad6b296a2f2834c9a5a4bd60",
-        "signature": "c24acac9e532193458129f91f7117600fe1ebc40ad6b296a2f2834c9a5a4bd60",
+        "version": "a62878d1e5fd49e12516143c53b9c27706e5e73be6d7fa6a558373437148f19e",
+        "signature": "a62878d1e5fd49e12516143c53b9c27706e5e73be6d7fa6a558373437148f19e",
         "affectsGlobalScope": true
       },
       "../types/post-message.d.ts": {
@@ -318,6 +318,11 @@
       },
       "../src/languages/ja.ts": {
         "version": "86ddd982c2ca87a9b9f180894088330e4ead34f4b8dea815df63e42e7b02279d",
+        "signature": "86efeb93caebf448f4ece0fa791f8b985e25ae5e7642aa12f6c4b8537e65b708",
+        "affectsGlobalScope": false
+      },
+      "../src/languages/ko-KR.ts": {
+        "version": "e413f341ae0aa65541aeddc78788729adc946456f09a4265ba20d701ec0f60d0",
         "signature": "86efeb93caebf448f4ece0fa791f8b985e25ae5e7642aa12f6c4b8537e65b708",
         "affectsGlobalScope": false
       },
@@ -1553,6 +1558,12 @@
         "../node_modules/@types/node/ts3.2/util.d.ts",
         "../node_modules/@types/node/util.d.ts"
       ],
+      "../src/languages/ko-KR.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts",
+        "../node_modules/@types/node/util.d.ts"
+      ],
       "../src/languages/zh-CN.ts": [
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/ts3.2/fs.d.ts",
@@ -2482,6 +2493,7 @@
       "../src/index.ts",
       "../src/languages/en-US.ts",
       "../src/languages/ja.ts",
+      "../src/languages/ko-KR.ts",
       "../src/languages/zh-CN.ts",
       "../src/languages/zh-HK.ts",
       "../src/languages/zh-TW.ts",
